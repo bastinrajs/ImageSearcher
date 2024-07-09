@@ -1,2 +1,2 @@
-# ImageSearcher
-Search your favorite images from internet search using Flickr API
+# ImageSearcher - MVVM pattern using SwiftUI
+Search your favorite images from internet search using Flickr public API
