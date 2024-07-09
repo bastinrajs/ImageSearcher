@@ -11,3 +11,5 @@ Search Screen - Search your favorite image using search bar. The resulted images
 
 Image details screen with more information about the image such as title, description, size, date clicked etc... Share your image with others
 <img src="https://github.com/bastinrajs/ImageSearcher/assets/175140104/889899dd-eff3-46cf-8721-f447466c7b48" style="width:300px;"/>
+
+<img src="https://github.com/bastinrajs/ImageSearcher/assets/175140104/09ea508f-fff7-4dd2-b465-da3198bf2605" style="width:300px;"/>
