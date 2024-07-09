@@ -1,13 +1,13 @@
 # ImageSearcher - MVVM pattern using SwiftUI
-Search your favorite images from internet search using Flickr public API
-<img src="drawing.jpg" alt="drawing" style="width:200px;"
-![Simulator Screenshot - iPhone 15 Pro - 2024-07-09 at 13 50 47](https://github.com/bastinrajs/ImageSearcher/assets/175140104/75b06ec0-2a8c-4261-93ad-58f4978e506d)
+<b> <i> Search your favorite images from internet search using Flickr public API </i> </b>
 
-/>
+<br>
+<br>
+Search Screen - Search your favorite image using search bar. The resulted images will be shown in the list below search bar.
+<img src="https://github.com/bastinrajs/ImageSearcher/assets/175140104/75b06ec0-2a8c-4261-93ad-58f4978e506d" alt="drawing" style="width:300px;"/>
 
+<br>
+<br>
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-07-09 at 13 50 52](https://github.com/bastinrajs/ImageSearcher/assets/175140104/889899dd-eff3-46cf-8721-f447466c7b48)
-
-
-
-![Simulator Screenshot - iPhone 15 Pro - 2024-07-09 at 13 50 56](https://github.com/bastinrajs/ImageSearcher/assets/175140104/a7f6043e-a393-4c31-8dcc-e751456e39bb)
+Image details screen with more information about the image such as title, description, size, date clicked etc... Share your image with others
+<img src="https://github.com/bastinrajs/ImageSearcher/assets/175140104/889899dd-eff3-46cf-8721-f447466c7b48" style="width:300px;"/>
